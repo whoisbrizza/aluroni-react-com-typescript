@@ -3,6 +3,9 @@
 Repositório criado com o objetivo de registrar meu progresso no Programa Desenvolve 2023 do Grupo Boticário em parceria com a Alura praticando o que foi abordado nas aulas do curso: <br> 
 React: lidando com arquivos estáticos, construindo o projeto de um restaurante, o Aluroni, onde podemos filtrar o cardápio de diversas maneiras.
 
+## Demonstração:
+<img src='Aluroni.gif'>
+
 ## Tecnologias utilizadas durante o curso
 
 * React
