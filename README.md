@@ -1,3 +1,24 @@
+# Programa Desenvolve 2023 - React: lidando com arquivos estáticos
+
+Repositório criado com o objetivo de registrar meu progresso no Programa Desenvolve 2023 do Grupo Boticário em parceria com a Alura praticando o que foi abordado nas aulas do curso: <br> 
+React: lidando com arquivos estáticos, construindo o projeto de um restaurante, o Aluroni, onde podemos filtrar o cardápio de diversas maneiras.
+
+## Tecnologias utilizadas durante o curso
+
+* React
+* TypeScript
+* SCSS
+
+## Tópicos abordados no curso:
+
+* Criando o projeto <br>
+* Assets <br>
+* Header e Buscador <br>
+* Ordenação e filtros <br>
+* Lista de itens <br>
+* Finalizando o projeto <br><br>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
